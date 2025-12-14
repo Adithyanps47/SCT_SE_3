@@ -1,0 +1,6 @@
+libraries
+__________
+
+pygame
+random
+time
